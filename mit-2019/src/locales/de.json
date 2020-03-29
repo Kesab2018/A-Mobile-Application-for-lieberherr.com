@@ -1,0 +1,43 @@
+{
+    "message": "Hallo Deutsch i18n !!",
+    "lang": {
+      "var": "de"
+},
+    "help": {
+        "bar": "FAQ und Hilfethemen durchsuchen",
+        "GE": "ALLGEMEINES",
+        "AU": "APP NUTZUNG",
+        "CI": "KONTAKTIEREN SIE FRAGEN",
+        "FAQ":"FAQs",
+        "APP Col":"Warum ist die App gelb gefärbt?",
+        "Cust Supp":"Ist der Kundensupport rund um die Uhr online oder zu welcher Uhrzeit?",
+        "Reg":"Ich habe mich registriert, kann mich aber nicht anmelden?",
+        "Pass":"Ich habe mein Passwort und meinen Benutzernamen vergessen?",
+        "Web":"Hat die App eine Webversion?"
+  },
+  "product":{
+    "pbar":"Search Product Name or SerialNo",
+    "BS":"BAUEN & KONSTRUKTION",
+    "AG":"LANDWIRTSCHAFT",
+    "MA":"MARITIME",
+    "MI":"BERGBAU",
+    "DES": "DEZENTRALISIERTE ENERGIE",
+    "SV": "SONDERFAHRZEUGE"
+  },
+  "Login": {
+    "email":"EMail Addresse",
+    "pass":"Passwort",
+    "FP":"Passwort vergessen",
+    "Log":"ANMELDUNG",
+    "Sign":"ANMELDEN"
+
+  },
+  "contact":{
+    "Search":"Name oder Standort des Kontakts suchen",
+    "Name":"Vollständiger Name",
+    "Email":"EMail Addresse",
+    "Msg":"Botschaft",
+    "Send":"SENDEN"
+
+  }
+}

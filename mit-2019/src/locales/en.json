@@ -1,0 +1,43 @@
+{
+  "message": "hello English i18n !!",
+  "lang": {
+    "var": "en"
+},
+  "help": {
+    "bar":"Search FAQ and Help Topics",
+    "GE":"GENERAL",
+    "AU":"APP USAGE",
+    "CI":"CONACT ISSUES",
+    "FAQ":"FAQs",
+    "APP Col":"Why is the app color yellow?",
+    "Cust Supp":"Is the costumer support online 24/7 or what time are they available?",
+    "Reg":"I registered but i am not able to Log in?",
+    "Pass":"I forgot my password and Username?",
+    "Web":"Does the app have a web version?"
+  },
+  "product":{
+    "pbar":"Search Product Name or SerialNo",
+    "BS":"BUILDING & CONSTRUCTION",
+    "AG":"AGRICULTURE",
+    "MA":"MARITIME",
+    "MI":"MINING",
+    "DES": "DECENTRALISED ENERGY",
+    "SV": "SPECIAL VEHICLES"
+  },
+  "Login": {
+    "email":"Email Address",
+    "pass":"Password",
+    "FP":"Forgot Password",
+    "Log":"LOGIN",
+    "Sign":"SIGN UP"
+
+  },
+  "contact":{
+    "Search":"Search Contact Name or Loaction",
+    "Name":"Full Name",
+    "Email":"Email Address",
+    "Msg":"Message",
+    "Send":"SEND"
+
+  }
+}
